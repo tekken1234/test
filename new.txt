@@ -1,2 +1,2 @@
-this is a git test document v1
-this is a modify doc form v2
+this is a git test document v2
+this is a modify doc form v3
